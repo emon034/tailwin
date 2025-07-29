@@ -3,7 +3,7 @@ import Layout from "../commponent/layout/layout";
 import Slider from "../commponent/hero/slider";
 import Card from "../commponent/hero/card";
 import WhyHobby from "../commponent/hero/why-hobby";
-import Testimonials from "../commponent/users/Testimonials";
+import Testimonials from "../commponent/users/testimonials";
 import Mail from "../commponent/hero/mail";
 const HomePage = () => {
   return (
